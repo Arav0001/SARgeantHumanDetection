@@ -1,0 +1,1 @@
+./evaluate.exe -a ../test_pos.txt -d ../results/test_results/[]/facesList.txt -f 0 -i ../resources/data_test/ -l ../test_list.txt -r ../results/test_results/[]/
